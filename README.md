@@ -1,6 +1,5 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Christopher</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Christopher -->
 
@@ -41,7 +40,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="www.linkedin.com/in/christopher-ciprian-7b2854251"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_](https://www.instagram.com/mciprian_01?igsh=MTFmYTBiY2J2dWJybg=="><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="www.linkedin.com/in/christopher-ciprian-7b2854251"><img src="https://img.shields.io/badge/-Christopher%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/mciprian_01?igsh=MTFmYTBiY2J2dWJybg=="><img src="https://img.shields.io/badge/-@MCIPRIAN_01__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 </p>
